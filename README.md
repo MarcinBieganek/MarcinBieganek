@@ -1,6 +1,6 @@
 Marcin Bieganek.
 
-Jestem studentem czwartego roku Informatyki na Uniwersytecie Wrocławskim.    
+Jestem studentem pierwszego roku studiów magisterskich na kierunku Informatyki na Uniwersytecie Wrocławskim.    
 Na moim profilu można zobaczyć część projektów zrealizowanych na studiach i w czasie wolnym.
 
 <!---
