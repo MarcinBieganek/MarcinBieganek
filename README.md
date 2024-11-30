@@ -1,6 +1,6 @@
 Hi, I am Marcin Bieganek.
 
-I am student of Master's degree of Computer Science studies at University of Wroclaw.
+I am student of Master's degree of Business Informatics studies at University of Economics in Wrocław.
 On my github profile you can find some of my projects implemented during studies and free time.
 
 You can contact me via:
