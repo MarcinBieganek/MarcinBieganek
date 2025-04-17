@@ -1,14 +1,14 @@
 Hi, I am Marcin Bieganek.
 
-👨‍🎓 Computer Science Engineer | University of Wroclaw
-💻 Former Junior MuleSoft Developer @ Deloitte
-🧠 Tech Stack: C#, Python, JavaScript (React), MuleSoft, SQL, Git, PowerBI
+👨‍🎓 Computer Science Engineer | University of Wroclaw    
+💻 Former Junior MuleSoft Developer @ Deloitte   
+🧠 Tech Stack: C#, Python, JavaScript (React), MuleSoft, SQL, Git, PowerBI   
 
-📚 Master’s in IT in Business | Thesis: Asset Price Forecasting Algorithms
+📚 Master’s in IT in Business | Thesis: Asset Price Forecasting Algorithms    
 🔗 Explore my projects on GitHub: github.com/MarcinBieganek
 
-🌍 Languages: PL 🇵🇱 | EN 🇬🇧 | IT 🇮🇹
-⚓ Sailing enthusiast | Licensed yacht & motorboat helmsman | Football, skiing & cycling fan
+🌍 Languages: PL 🇵🇱 | EN 🇬🇧 | IT 🇮🇹    
+⚓ Sailing enthusiast | Licensed yacht & motorboat helmsman | Football, skiing & cycling fan  
 
 💬 Let’s connect!
 * e-mail: marcinbieganek@gmail.com
